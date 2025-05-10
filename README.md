@@ -1,7 +1,7 @@
-Authors: Vatsal Mehta & Tushar Cora Suresh
-NetIds: vkm31 & tc901
+Author: Tushar Cora Suresh
 
 Compile: make
+
 Execute code: ./spchk words mlk.txt hamlet.txt song.txt
 
 This program is a comprehensive tool for processing and analyzing text files, particularly focused on dictionary management and word validation. Its functionalities span across reading and processing dictionary files, traversing directories to find text files, managing words and their occurrences in texts, and validating words against a loaded dictionary. The program also provides custom string comparison functions that respect ASCII characters and offer both case-sensitive and case-insensitive comparisons.
